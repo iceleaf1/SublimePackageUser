@@ -4,14 +4,11 @@ Sublime Text 3, Package/User, React Native Develop
 # Package Control
 [Install Package Control](https://packagecontrol.io/installation)
 
-# Synchronous configuration(MacOS)
-Quit Sublime Text, 
+# ESLint for Javascript
 
 ```
-git clone https://github.com/Zerol/SublimePackageUser.git [GITROOT]/SublimePackageUser
-cd [SUBLIMEROOT]/Packages/  # ~/Library/Application Support/Sublime Text 3/Packages/
-mv User ~/User.bak # 备份一下
-ln -s [GITROOT]/SublimePackageUser/User User
+npm install -g babel-eslint eslint eslint-plugin-react eslint-plugin-react-native eslint-plugin-flow-vars
+
 ```
 
 # Installed Package List
@@ -42,4 +39,17 @@ ln -s [GITROOT]/SublimePackageUser/User User
 + [SublimeLinter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
 + [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel)
 
+
+
+# Synchronous configuration(MacOS)
+Quit Sublime Text, 
+
+```
+git clone https://github.com/Zerol/SublimePackageUser.git #[GITROOT]/SublimePackageUser
+cd [SUBLIMEROOT]/Packages/  #~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+#mv User ~/User.bak # 备份一下
+ln -s [GITROOT]/SublimePackageUser/User User
+```
+
+StArT Sublime Text.
 
