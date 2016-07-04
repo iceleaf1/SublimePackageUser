@@ -1,0 +1,7 @@
+{
+
+  "codeintel_tooltips": "panel",
+  "codeintel_word_completions": "buffer",
+  "codeintel_scan_exclude_dir":["build/"],
+
+}

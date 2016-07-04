@@ -1,0 +1,9 @@
+{
+  "completion_active_list": {
+    // build-in completions
+    "css-properties": false,
+    "javascript": true,
+    "react": false,
+    "lodash": false,
+  }
+}

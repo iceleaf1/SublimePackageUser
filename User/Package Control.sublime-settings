@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"All Autocomplete",
+		"Babel",
+		"Better Completion",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Compare Side-By-Side",
+		"DevDocs",
+		"DocBlockr",
+		"EditorConfig",
+		"FileModifyStatus",
+		"Flexbox Snippets",
+		"GitGutter",
+		"HexViewer",
+		"JsFormat",
+		"Material Theme",
+		"MultiEditUtils",
+		"Origami",
+		"Package Control",
+		"QuickGotoAnything",
+		"React ES6 Snippets",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint"
+	]
+}
